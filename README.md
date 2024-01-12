@@ -1,5 +1,5 @@
 ># Hola 👋
-> Soy **_Paula Vergara_**, estudiante Desarrollador Full Stack Academia Desafío Latam
+> Soy **_Paula Vergara_**, estudiante Desarrollador Full Stack
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBH5LbcA2hTaOHguHSjrVCTRcPONcnlbM4KYiIAkb3hfLfPZjpN-ssuQSlvSmvRL_2Lo&usqp=CAU">
